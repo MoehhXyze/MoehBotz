@@ -1,2 +1,2 @@
 # MoehBotz
-Foto
+-
